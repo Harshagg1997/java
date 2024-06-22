@@ -1,4 +1,4 @@
-package com.dsa.warrays;
+package com.dsa.arrays;
 
 import java.util.Arrays;
 //Aggarwal
@@ -25,7 +25,7 @@ public class MajorityArray {
 		}
 		return -1;
 	}
-	//As order is not important so can Use Sorting
+	//As order is not important so can harsh Use Sorting
 	//Time Complexity O(Nlog(N)+N) =O(Nlog(N))
 	//Space Complexity O(1)
 	public static int MajorityUsingSort(int a[]) {
@@ -52,7 +52,14 @@ public class MajorityArray {
 		int Majorityelement=BruteForce(a);
 		System.out.println(Majorityelement);
 		int MajorityUsingSort=MajorityUsingSort(a);
+		System.out.println(MajorityUsingSort+"adds");
+
+
+		System.out.println("ds222"+MajorityUsingSort+"21D");
+
 		System.out.println(MajorityUsingSort+"Merge");
+System.out.println(MajorityUsingSort+"Merge");
+
 
 		
 
