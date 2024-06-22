@@ -2,6 +2,7 @@ package com.dsa.arrays;
 
 import java.util.Arrays;
 //Aggarwal
+//jj
 //[1,1,2,2,1]----1 is in majority
 //[1,1,2,2,3,3]---No majority
 public class MajorityArray {
