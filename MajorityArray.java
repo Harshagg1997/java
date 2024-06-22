@@ -8,7 +8,9 @@ import java.util.Arrays;
 public class MajorityArray {
 	
 	//Time Complexity== O(N**2)
-	//Space Complexity O(1)
+	//Time Complexity-- O(N**2)
+
+//Space Complexity O(1)
 	public static int BruteForce(int a[]) {
 		int majority=a.length/2+1;
 		int currCandidatecount=0;
