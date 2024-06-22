@@ -52,7 +52,9 @@ public class MajorityArray {
 		int Majorityelement=BruteForce(a);
 		System.out.println(Majorityelement);
 		int MajorityUsingSort=MajorityUsingSort(a);
+
 		System.out.println("ds222"+MajorityUsingSort+"21D");
+
 	
 		
 
