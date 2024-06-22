@@ -17,7 +17,7 @@ public class MajorityArray {
 		for(int i=0;i<a.length;i++ ) {
 			currCandidatecount=0;
 			for(int j=0;j<a.length;j++ ) {
-				if(a[j]==a[i]) {
+				if(a[jl]==a[i]) {
 					currCandidatecount++;
 				}
 			}
@@ -50,14 +50,14 @@ public class MajorityArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method Aff stub 
-		int a[]= {1,1,2,2,1,1};
+		int a[]= {1,1,2,2,,8,1,1};
 		int Majorityelement=BruteForce(a);
 		System.out.println(Majorityelement);
 		int MajorityUsingSort=MajorityUsingSort(a);
 		System.out.println(MajorityUsingSort+"adds");
 
 
-		System.out.println("dsHarsh"+MajorityUsingSort+"21D");
+		System.out.println("dsHarsrrh"+MajorityUsingSort+"21D");
 
 		System.out.println(MajorityUsingSort+"Merge");
 System.out.println(MajorityUsingSort+"Merge");
