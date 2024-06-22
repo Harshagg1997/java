@@ -2,12 +2,9 @@ package com.dsa.arrays;
 
 import java.util.Arrays;
 //Aggarwal
-//jj
-//ss
-//ksadk
-
 //[1,1,2,2,1]----1 is in majority
 //[1,1,2,2,3,3]---No majority
+//harsh
 public class MajorityArray {
 	
 	//Time Complexity O(N**2)
