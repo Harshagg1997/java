@@ -2,9 +2,9 @@ package com.dsa.arrays;
 
 import java.util.Arrays;
 //Aggarwal
-//jj
 //[1,1,2,2,1]----1 is in majority
 //[1,1,2,2,3,3]---No majority
+//harsh
 public class MajorityArray {
 	
 	//Time Complexity O(N**2)
@@ -52,7 +52,18 @@ public class MajorityArray {
 		int Majorityelement=BruteForce(a);
 		System.out.println(Majorityelement);
 		int MajorityUsingSort=MajorityUsingSort(a);
+
+		System.out.println(MajorityUsingSort+"adds");
+
+
+		System.out.println("ds222"+MajorityUsingSort+"21D");
+//Conflict resolve
 		System.out.println(MajorityUsingSort+"Merge");
+
+
+
+		System.out.println(MajorityUsingSort+"Merge");
+
 		
 
 	}
