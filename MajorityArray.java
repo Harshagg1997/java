@@ -1,4 +1,4 @@
-package com.dsa.arrays;
+package com.dsa.warrays;
 
 import java.util.Arrays;
 //Aggarwal
