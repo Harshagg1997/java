@@ -57,8 +57,10 @@ public class MajorityArray {
 
 		System.out.println("ds222"+MajorityUsingSort+"21D");
 
+		System.out.println(MajorityUsingSort+"Merge");
+System.out.println(MajorityUsingSort+"Merge");
 
-	
+
 		
 
 	}
