@@ -1,4 +1,4 @@
-package com.dsa.arrays;
+package com.dsa.warrays;
 
 import java.util.Arrays;
 //Aggarwal
@@ -52,13 +52,8 @@ public class MajorityArray {
 		int Majorityelement=BruteForce(a);
 		System.out.println(Majorityelement);
 		int MajorityUsingSort=MajorityUsingSort(a);
-		System.out.println(MajorityUsingSort+"adds");
+		System.out.println(MajorityUsingSort+"Merge");
 
-
-		System.out.println("ds222"+MajorityUsingSort+"21D");
-
-
-	
 		
 
 	}
